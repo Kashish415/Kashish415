@@ -4,7 +4,6 @@
 - 🌱 Currently exploring the MERN stack for full-stack development.
 - 💡 I enjoy working on projects that challenge my creativity and problem-solving skills. Currently, I'm working on **EduGenie AI** and some other exciting AI-based tools.
 - 💞️ Open to collaborations on AI/ML research, web development, and Python-based projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kashish-gupta-6587622a1), [Email](gkashish248@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a bookworm who finds inspiration in stories and literature!
 ---
@@ -25,4 +24,4 @@
 ---
 
 ### Get in Touch:
-- For inquiries or collaborations, connect with me on [LinkedIn](https://www.linkedin.com/in/kashish-gupta-6587622a1), or drop me a [mail](gkashish248@gmail.com).
+- For inquiries or collaborations, drop me a [mail](gkashish248@gmail.com).

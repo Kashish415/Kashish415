@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Kashish
 
 - 💻 Passionate about AI, Machine Learning, and building SaaS products.
-- 🌱 Currently exploring the MERN stack for full-stack development.
 - 💡 I enjoy working on projects that challenge my creativity and problem-solving skills. Currently, I'm working on **EduGenie AI** and some other exciting AI-based tools.
 - 💞️ Open to collaborations on AI/ML research, web development, and Python-based projects.
 - 😄 Pronouns: She/Her

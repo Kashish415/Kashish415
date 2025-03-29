@@ -4,7 +4,7 @@
 - 💡 I enjoy working on projects that challenge my creativity and problem-solving skills. Currently, I'm working on **EduGenie AI** and some other exciting AI-based tools.
 - 💞️ Open to collaborations on AI/ML research, web development, and Python-based projects.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a bookworm who finds inspiration in stories and literature!
+- ⚡ Fun fact: I am a bookworm who finds inspiration in stories.
 ---
 
 ### Languages and Tools:

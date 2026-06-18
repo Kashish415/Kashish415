@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kashish
+<!--### Hi 👋, I'm Kashish
 
 - 💻 Passionate about AI and Machine Learning.
 - 💡 I enjoy working on projects that challenge my creativity and problem-solving skills. 
@@ -22,3 +22,240 @@
 
 ### Get in Touch:
 - For inquiries or collaborations, drop me a [mail](gkashish248@gmail.com).
+-->
+
+<div align="center">
+
+<img src="./assets/banner.svg" width="100%" alt="Banner"/>
+
+<br>
+
+# Kashish Gupta
+
+### Building production-ready AI systems.
+
+<p>
+
+<a href="https://github.com/Kashish415">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+</div>
+
+---
+
+# About
+
+I build intelligent software powered by **LLMs**, **Computer Vision**, and **Modern AI Infrastructure**.
+
+I enjoy designing products that combine research with production engineering.
+
+Current focus:
+
+- Production AI Applications
+- Multi-Agent Systems
+- RAG
+- FastAPI
+- Computer Vision
+- AI Automation
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 AI FAQ Assistant
+
+Production-ready RAG chatbot.
+
+**Tech**
+
+Python
+
+FastAPI
+
+Gemini
+
+LangChain
+
+FAISS
+
+</td>
+
+<td width="50%">
+
+## 🎨 ComicCrafter AI
+
+AI comic generation pipeline.
+
+**Tech**
+
+Stable Diffusion
+
+Gemini
+
+Prompt Engineering
+
+Python
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📄 Resume Intelligence
+
+Resume parsing + ATS scoring using LLMs.
+
+</td>
+
+<td width="50%">
+
+## 🧠 AI Research Playground
+
+Experiments with
+
+- Agents
+- Vision
+- LLM Evaluation
+- Prompt Engineering
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
+
+<br><br>
+
+### AI
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql"/>
+
+<br><br>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kashish415&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Kashish415&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashish415&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```txt
+Building →
+███████████████████░ 95%
+
+Production AI
+
+█████████████████░░ 90%
+
+Multi-Agent Systems
+
+████████████████░░░ 85%
+
+Computer Vision
+
+███████████████░░░░ 80%
+
+Open Source
+```
+
+---
+
+# GitHub Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kashish415/Kashish415/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Quote
+
+> "The best AI products disappear behind great user experiences."
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Kashish415">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting.
+
+</div>

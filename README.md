@@ -59,7 +59,7 @@ I'm a final year CS (AI & ML) undergrad. My work involves working with  **Genera
 
 **[Real-Time Yoga Pose Classifier](https://github.com/Kashish415/YOGA-POSE-DETECTION-AND-CLASSIFICATION)** — Live webcam feed into a MediaPipe + Keras pipeline. 33 body-joint landmarks extracted per frame, classified in real time. Custom-labeled dataset, 95% accuracy.
 
-**[Legal Research OpenEnv](https://github.com/Kashish415/OpenEnv_Legal_Research_RL_env)** — An OpenEnv compatible RL environment where AI agents learn to search, read, extract, and reason over 26,000+ real Supreme Court judgments.
+**[Legal Research OpenEnv](https://github.com/Kashish415/OpenEnv_Legal_Research_RL_env)** — An OpenEnv-compatible RL environment where AI agents learn to search, read, extract, and reason over 26,000+ real Supreme Court judgments.
 ---
 
 ## 💼 Experience

@@ -1,59 +1,48 @@
 
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kashish+Gupta;Python+%7C+AI%2FML+%7C+LLM+Applications;Building+RAG+and+Agentic+Workflows" alt="Kashish Gupta" />
-
-<p>Final-year B.Tech CSE (AI & ML) student building practical AI applications and agent workflows.</p>
-
-<a href="https://www.linkedin.com/in/-kashish-gupta/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://huggingface.co/kashishgupta">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
-<a href="mailto:guptakashish262@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kashish+Gupta;AI%2FML+%7C+GenAI+%7C+Python;LLMs+%7C+RAG+%7C+Agentic+Workflows" alt="Typing SVG" />
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/-kashish-gupta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://huggingface.co/kashishgupta"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+  <a href="mailto:guptakashish262@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
 
-## About
+Final-year B.Tech student in Computer Science Engineering (AI & ML). I build Python-based AI applications, with a focus on LLM workflows, retrieval systems, agent orchestration and backend development.
 
-I work mainly with Python and build applications involving LLMs, retrieval-augmented generation, agent workflows and backend APIs.
+## Selected Projects
 
-I'm interested in making AI systems more useful through better retrieval, validation, evaluation and practical application design.
+**[Market Research & BRD Generator](https://github.com/Kashish415/Market-Research-BRD-Generator)** · [Live Demo](https://market-research-agent-crewai.onrender.com/)
 
-## My Projects
+A CrewAI workflow covering market research, competitor analysis, customer insights, requirements analysis and BRD generation. Uses Exa MCP for web research and generates downloadable, editable Word documents.
 
-### [Market Research & BRD Generator](https://github.com/Kashish415/Market-Research-BRD-Generator)
+`Python` `CrewAI` `Exa MCP` `NiceGUI` `OpenRouter` `python-docx`
 
-[Live Application](https://market-research-agent-crewai.onrender.com)
+**[GATE CS Agent](https://github.com/Kashish415/Gate-CS-Agent)** · [Telegram](https://t.me/gate_cs_daily)
 
-A CrewAI-based workflow that turns a business brief into a structured Business Requirements Document.
+A LangGraph pipeline that generates, verifies and publishes three GATE CS questions daily. Includes automated evaluation with DeepEval and workflow tracing through LangSmith.
 
-- Five specialised agents covering research, competitor analysis, customer insights and requirements.
-- Exa MCP for research.
-- Asynchronous research tasks followed by requirements synthesis.
-- NiceGUI interface and downloadable Word document generation.
+`Python` `LangGraph` `DeepEval` `LangSmith` `SQLite` `GitHub Actions`
 
-**Stack:** Python, CrewAI, Exa MCP, OpenRouter, NiceGUI, python-docx
+**[PawsPalConnect](https://huggingface.co/spaces/kashishgupta/PawsPalConnect_upgraded_nutrition_API)**
 
-### [GATE CS Agent](https://github.com/Kashish415/Gate-CS-Agent)
+An AI-based pet nutrition planning application using a veterinary knowledge base and RAG-based retrieval for personalised recommendations.
 
-An agentic pipeline that generates and independently verifies GATE CS practice questions before publishing them to Telegram.
+`Python` `Hugging Face` `FAISS` `FastAPI` `LangSmith`
 
-- LangGraph workflow with generation, validation and independent verification.
-- Retry handling and cached-question fallback.
-- DeepEval checks and LangSmith tracing.
-- Automated daily execution through GitHub Actions.
+## Open-source Contributions
 
-**Stack:** Python, LangGraph, LangChain, Pydantic, DeepEval, SQLite, LangSmith
+- [Yaksha-mini FAQ Assistant](https://github.com/samridhigoyal-00/crowd-source-faq/pull/2) — Added conversational memory and cross-encoder re-ranking to improve follow-up question retrieval.
+- [Ajrasakha](https://github.com/vicharanashala/ajrasakha/pull/1189) — Developed a FastAPI microservice for semantic query clustering and coverage-gap analysis.
 
+## Technical Stack
 
-<div align="center">
+**Languages:** Python · SQL
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/-kashish-gupta/) or reach me at [Email](mailto:guptakashish262@gmail.com).
+**AI / ML:** Machine Learning · Deep Learning · LangChain · LangGraph · CrewAI · Hugging Face · FAISS
 
-</div>
+**Backend & Tools:** FastAPI · REST APIs · Git · GitHub · SQLite · LangSmith · DeepEval
+

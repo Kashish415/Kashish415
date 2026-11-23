@@ -1,23 +1,23 @@
 
 
-```html
+```markdown
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kashish+%F0%9F%91%8B;Building+AI-powered+applications.;LLMs+%7C+RAG+%7C+Agentic+AI." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kashish+%F0%9F%91%8B;Building+AI-powered+applications.;LLMs+%7C+RAG+%7C+Agentic+AI." alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/-kashish-gupta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://huggingface.co/kashishgupta"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>&nbsp;
-  <a href="mailto:guptakashish262@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/-kashish-gupta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://huggingface.co/kashishgupta"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>&nbsp;
+  <a href="mailto:guptakashish262@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
 
 ---
 
-I'm a final-year CS (AI & ML) undergrad working across **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, Machine Learning and Computer Vision.** My work mainly involves Python, LLM applications, retrieval pipelines and backend development.
+I'm a final-year CS (AI & ML) undergrad working across **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, Machine Learning and Computer Vision**, with a focus on Python, LLM applications and backend development.
 
 ---
 
@@ -25,7 +25,7 @@ I'm a final-year CS (AI & ML) undergrad working across **Generative AI, Retrieva
 
 - **RAG & Agentic Systems** — LangChain, LangGraph, CrewAI, FAISS and LangSmith.
 - **LLM Applications** — Hugging Face Transformers, prompt engineering, model evaluation and observability.
-- **Backend Development** — Python, FastAPI, REST APIs and integrating AI workflows into applications.
+- **Backend Development** — Python, FastAPI, REST APIs and AI workflow integration.
 - **Machine Learning & Computer Vision** — TensorFlow, Keras, OpenCV and MediaPipe.
 
 ---
@@ -69,6 +69,10 @@ A CrewAI-based workflow for market research, competitor analysis, customer insig
 
 A LangGraph pipeline that generates, verifies and publishes three GATE CS questions daily through Telegram using GitHub Actions. Includes DeepEval-based evaluation and LangSmith observability.
 
+**[PawsPalConnect](https://huggingface.co/spaces/kashishgupta/PawsPalConnect_upgraded_nutrition_API)**
+
+An AI-based pet nutrition planning application that generates personalised recommendations using a veterinary knowledge base.
+
 **[ComicCrafter AI](https://github.com/Kashish415/ComicCrafter-AI)**
 
 A prompt-to-comic application that uses LLM-generated scene descriptions and Stable Diffusion for multi-panel image generation.
@@ -83,8 +87,8 @@ A real-time webcam-based pose classification system using MediaPipe landmarks an
 
 **VLED Labs, IIT Ropar**
 
-- [Yaksha-mini FAQ Assistant](https://github.com/samridhigoyal-00/crowd-source-faq/pull/2) — Worked on conversational history and cross-encoder re-ranking to improve follow-up question retrieval as part of the team project.
-- [Ajrasakha](https://github.com/vicharanashala/ajrasakha/pull/1189) — Developed a FastAPI microservice for semantic clustering of unanswered queries and coverage-gap reporting using Sentence Transformers and HDBSCAN.
+- [Yaksha-mini FAQ Assistant](https://github.com/samridhigoyal-00/crowd-source-faq/pull/2) — Contributed conversational history and cross-encoder re-ranking to improve follow-up question retrieval as part of the team project.
+- [Ajrasakha](https://github.com/vicharanashala/ajrasakha/pull/1189) — Submitted a FastAPI microservice contribution for semantic clustering of unanswered queries and coverage-gap reporting using Sentence Transformers and HDBSCAN.
 
 ---
 

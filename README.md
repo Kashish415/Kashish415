@@ -1,6 +1,4 @@
-
-
-```markdown
+[README.md](https://github.com/user-attachments/files/35276530/README.md)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kashish+%F0%9F%91%8B;Building+AI-powered+applications.;LLMs+%7C+RAG+%7C+Agentic+AI." alt="Typing SVG" />
 </div>
@@ -96,5 +94,3 @@ A real-time webcam-based pose classification system using MediaPipe landmarks an
   <a href="https://www.linkedin.com/in/-kashish-gupta/">LinkedIn</a> ·
   <a href="mailto:guptakashish262@gmail.com">Email</a>
 </div>
-```
-
